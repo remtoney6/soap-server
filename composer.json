@@ -1,0 +1,10 @@
+{
+    "name": "fusionco/soap-server",
+    "description": "SOAP server for Laravel",
+    "autoload": {
+        "psr-4": {
+            "Fusionco\\SoapServer\\": "src/"
+        }
+    },
+    "require": {}
+}
